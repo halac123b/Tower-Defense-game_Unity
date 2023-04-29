@@ -1,6 +1,8 @@
 # Tower-Defense-game_Unity
 A simple Tower Defense game prototype where enemy can find path automatically through BFS.<br>
 
+<p>Link play: <a href="https://halac123b.github.io/Tower-Defense-game_Unity/">Github Page</a></p>
+
 <p>Sequential enemy waves try to reach your home and steal your money, you should put your archer tower (cost money, too) to eliminate them. Enemy will become more difficult to kill over time.</p>
 <p>Put tower on your enemy path will block them and make them have to find another path, make use of this function. But you can't block all feasible paths (at least one path still exist).</p>
 <p>Press C to toggle coordinates of tiles on grid map.</p>
